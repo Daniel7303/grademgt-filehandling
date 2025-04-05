@@ -1,0 +1,8 @@
+Student Name   Score   Grade 
+------------------------------
+nedu           65      D 
+nedu           45      F 
+nedu           87      B 
+nedu           87      B 
+Total          284     
+Average        142.0   
